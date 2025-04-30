@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=DESKTOP-TTQK5FS\SQLEXPRESS; Database=RecollectionProject; User Id=dev; Password=123456789; Encrypt=true; TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -ContextDir DBConext -OutputDir Models -Force -DataAnnotation
